@@ -55,3 +55,13 @@ footer {
   text-shadow: 0 0 5px #ff79c6, 0 0 10px #8be9fd;
 }
 
+a {
+  color: #ffffff; /* White links */
+  text-decoration: none; /* Optional: Removes the underline */
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #ff79c6; /* Accent color on hover */
+}
+
